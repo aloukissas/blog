@@ -13,7 +13,8 @@ body {
   word-wrap: break-word;
   overflow-wrap: break-word;
   line-height: 1.5;
-  color: #444;
+  color: rgb(82, 82, 91);
+  -moz-osx-font-smoothing: grayscale;
 }
 h1,
 h2,
@@ -23,7 +24,7 @@ h5,
 h6,
 strong,
 b {
-  color: #222;
+  color: rgb(39, 39, 42);
 }
 a {
   color: #3273dc;
