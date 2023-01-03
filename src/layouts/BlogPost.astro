@@ -1,5 +1,6 @@
 ---
 import "@fontsource/inter";
+import { Image } from "@astrojs/image/components";
 import BaseHead from "../components/BaseHead.astro";
 import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
@@ -43,9 +44,9 @@ const {
         {
           heroImage && (
             <figure>
-              <img
+              <Image
                 width={720}
-                height={360}
+                aspectRatio={1}
                 src={heroImage}
                 alt={heroCaption || ""}
               />
