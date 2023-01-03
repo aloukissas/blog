@@ -31,12 +31,12 @@ I started my career out of grad school at [Cisco Research](https://research.cisc
 working on cloud computing and storage, connected vehicles, software-defined networks,
 and smart grid.
 
-I moved to California in 2006 to attend the Master's program in Computer
-Science at UC San Diego. During my time there, I co-authored a research
+I moved from Greece to California in 2006 to attend the Master's program in
+Computer Science at UC San Diego. During my time there, I co-authored a research
 paper on [data center network architectures](https://dl.acm.org/citation.cfm?id=1402967),
-which was recognized with the prestigious
-[SIGCOMM Test of Time Award](https://www.sigcomm.org/awards/test-of-time-paper-award) in 2018
-and also laid the foundation for Google's
+which was recognized in 2018 with the prestigious
+[SIGCOMM Test of Time Award](https://www.sigcomm.org/awards/test-of-time-paper-award).
+Our paper also laid the foundation for Google's
 [next-generation networking infrastructure](https://ai.google/research/pubs/pub43837).
 
 In my spare time, I enjoy <s>traveling</s> being a new dad, running, driving
