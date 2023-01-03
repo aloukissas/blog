@@ -1,17 +1,44 @@
 ---
 layout: "../layouts/BlogPost.astro"
-title: "About Me"
+title: "About"
 description: "Lorem ipsum dolor sit amet"
-updatedDate: "August 08 2022"
-heroImage: "/placeholder-about.jpg"
+heroImage: "/social.jpg"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+I'm a software architect, specializing in scalable web and mobile
+applications. I have spent the last 10+ years in technology startups,
+both as an early engineer and as a technical co-founder.
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc. Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra massa massa ultricies mi.
+Currently, I'm a Lead Engineer at [Adim](https://adimverse.com), working on
+a web3 platform that enables creators of all kinds to create and own a new
+generation of IP.
 
-Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec. Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et egestas quis ipsum suspendisse ultrices. Eget lorem dolor sed viverra ipsum. Vel turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim praesent elementum facilisis. Ultrices tincidunt arcu non sodales neque. Tempus egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor purus non. Amet dictum sit amet justo donec enim.
+Previously, I was a Staff Engineer at [Whatnot](https://www.whatnot.com),
+where I designed and implemented the infrastructure that supports
+[real-time auctions](https://thinkingelixir.com/podcast-episodes/051-live-auctions-with-alex-loukissas/).
+I was also the Founding Engineer at [[untitled]](https://untitledinbrackets),
+where I designed and built a multi-platform collaboration product for
+music creation.
 
-Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut consequat semper viverra. Tellus mauris a diam maecenas sed enim ut sem viverra. Venenatis urna cursus eget nunc scelerisque viverra mauris in. Arcu ac tortor dignissim convallis aenean et tortor at. Curabitur gravida arcu ac tortor dignissim convallis aenean et tortor. Egestas tellus rutrum tellus pellentesque eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices tincidunt arcu. Id cursus metus aliquam eleifend mi.
+My first foray into startups was joining
+[Maginatics](https://web.archive.org/web/20140628160659/https://maginatics.com/)
+(acquired by Dell/EMC) as one of the first engineers building an enterprise
+cloud file system.
 
-Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus imperdiet. Id porta nibh venenatis cras sed felis eget velit. Ipsum a arcu cursus vitae. Facilisis magna etiam tempor orci eu lobortis elementum. Tincidunt dui ut ornare lectus sit. Quisque non tellus orci ac. Blandit libero volutpat sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Egestas integer eget aliquet nibh praesent tristique magna.
+In between, I co-founded a couple fintech startups in [wealth management](https://agentrisk.com/)
+and [college savings](http://web.archive.org/web/20180319000951/http://easy529.com/).
+I started my career out of grad school at [Cisco Research](https://research.cisco.com/),
+working on cloud computing and storage, connected vehicles, software-defined networks,
+and smart grid.
+
+I moved to California in 2006 to attend the Master's program in Computer
+Science at UC San Diego. During my time there, I co-authored a research
+paper on [data center network architectures](https://dl.acm.org/citation.cfm?id=1402967),
+which was recognized with the prestigious
+[SIGCOMM Test of Time Award](https://www.sigcomm.org/awards/test-of-time-paper-award) in 2018
+and also laid the foundation for Google's
+[next-generation networking infrastructure](https://ai.google/research/pubs/pub43837).
+
+In my spare time, I enjoy <s>traveling</s> being a new dad, running, driving
+in the Los Angeles canyons, and working on various side projects. I'm also
+passionate about Krav Maga, which I've practiced since 2014.

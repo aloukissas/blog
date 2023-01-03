@@ -28,6 +28,10 @@ b {
 }
 a {
   color: #3273dc;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
 }
 nav a {
   margin-right: 10px;
@@ -65,4 +69,23 @@ blockquote {
   padding: 2px 0px 2px 20px;
   margin: 0px;
   font-style: italic;
+}
+
+@media (prefers-color-scheme: dark) {
+  html,
+  body {
+    background-color: rgb(24, 24, 27);
+    color: rgb(161, 161, 170);
+  }
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  strong,
+  b,
+  a {
+    color: #fff;
+  }
 }
