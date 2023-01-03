@@ -33,9 +33,6 @@ a {
 a:hover {
   text-decoration: underline;
 }
-nav a {
-  margin-right: 10px;
-}
 textarea {
   width: 100%;
   font-size: 16px;
