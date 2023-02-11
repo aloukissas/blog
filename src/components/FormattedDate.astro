@@ -1,17 +1,13 @@
 ---
 export interface Props {
   dateStr: string;
+  fullDate?: boolean;
 }
 
-const { dateStr } = Astro.props;
+const { dateStr, fullDate } = Astro.props;
+const d = new Date(dateStr);
 ---
 
 <time datetime={dateStr}>
-  {
-    new Date(dateStr).toLocaleDateString("en-us", {
-      year: "numeric",
-      month: "short",
-      day: "numeric",
-    })
-  }
+  {fullDate ? d.toLocaleDateString() : d.toISOString().substring(0, 10)}
 </time>

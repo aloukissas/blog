@@ -54,11 +54,18 @@ const {
           )
         }
         <h1 class="title">{title}</h1>
-        {pubDate && <FormattedDate dateStr={pubDate} />}
+        {
+          pubDate && (
+            <>
+              <span>Posted on </span>
+              <FormattedDate dateStr={pubDate} fullDate />
+            </>
+          )
+        }
         {
           updatedDate && (
             <div>
-              Last updated on <FormattedDate dateStr={updatedDate} />
+              Last updated on <FormattedDate dateStr={updatedDate} fullDate />
             </div>
           )
         }
