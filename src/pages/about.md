@@ -19,7 +19,7 @@ Earelir, I was the Founding Engineer at [[untitled]](https://untitledinbrackets)
 engineering hire), where I designed and built a multi-platform collaboration product
 for music creation. I also dipped my toes in web3 and blockchain, as the Lead Engineer
 (2nd engineering hire) at [Adim](https://adimverse.com), an a16z crypto portco that
-enables creators of all kinds to create and own a new generation of IP
+enables creators of all kinds to create and own a new generation of IP.
 
 My first foray into startups was joining
 [Maginatics](https://web.archive.org/web/20140628160659/https://maginatics.com/)
