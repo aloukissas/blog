@@ -9,13 +9,13 @@ I'm a software architect, specializing in scalable web and mobile
 applications. I have spent the last 10+ years in technology startups,
 both as an early engineer and as a technical co-founder.
 
-Currently, I'm a Senior Staff Engineer at [Fanatics Live](https://www.fanatics.live/),
+Currently, I'm a Director of Engineering at [Fanatics Live](https://www.fanatics.live/),
 building a best-in-class live shopping experience for sports collectors and fans.
 
 Previously, I was Staff Engineer at [Whatnot](https://www.whatnot.com) (3rd engineering
 hire), where I designed and implemented the infrastructure that supports
 [real-time auctions](https://thinkingelixir.com/podcast-episodes/051-live-auctions-with-alex-loukissas/).
-Earelir, I was the Founding Engineer at [[untitled]](https://untitledinbrackets) (1st
+Earlier, I was the Founding Engineer at [[untitled]](https://untitledinbrackets) (1st
 engineering hire), where I designed and built a multi-platform collaboration product
 for music creation. I also dipped my toes in web3 and blockchain, as the Lead Engineer
 (2nd engineering hire) at [Adim](https://adimverse.com), an a16z crypto portco that
